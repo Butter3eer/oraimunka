@@ -10,3 +10,7 @@ div:nth-child(even) p:nth-child(even) {
     background-color: black;
 }
 
+p {
+    width: 20px;
+    padding: 5px;
+}

@@ -6,3 +6,7 @@ table, tr, td, th {
 td, th {
     padding: 2vw;
 }
+
+tfoot {
+    background-color: yellow;
+}
