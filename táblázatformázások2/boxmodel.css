@@ -1,0 +1,12 @@
+div {
+    width: 80%;
+}
+div:nth-child(odd) p:nth-child(odd) {
+    color: white;
+    background-color: black;
+}
+div:nth-child(even) p:nth-child(even) {
+    color: white;
+    background-color: black;
+}
+
