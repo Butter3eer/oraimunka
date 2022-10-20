@@ -13,4 +13,6 @@ div:nth-child(even) p:nth-child(even) {
 p {
     width: 20px;
     padding: 5px;
+    border: 1px solid black;
+    margin: 0px;
 }
