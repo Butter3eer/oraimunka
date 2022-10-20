@@ -4,5 +4,5 @@ table, tr, td, th {
 }
 
 td, th {
-    cell-padding:
+    padding: 2vw;
 }
